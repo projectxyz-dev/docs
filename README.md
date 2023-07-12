@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Introduction
 
 Welcome! This page is still in development, so if you find bugs report it at our [discord server](https://dc.projectxyz.dev)
